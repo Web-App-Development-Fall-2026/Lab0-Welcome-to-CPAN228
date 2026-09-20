@@ -108,6 +108,6 @@ After the PR is merged, you're officially done with Lab 0! ✅
 
 ## Student Roster
 
-| #   | Name              | Student ID    | GitHub Username | Humber Email                  | Lab 0 Complete | Group Name |
-| --- | ----------------- | ------------- | --------------- | ----------------------------- | -------------- | ---------- |
+| #   | Name            | Student ID    | GitHub Username | Humber Email                  | Lab 0 Complete | Group Name |
+| --- |Kissoon, Dawattie| N01751994     | @dawattie-kissoon | n01751995@students.humber.ca| Completed      | N/A   |
 | 0 | Christin, Mugisha | [N0123456789] | @christinhumber | ly-christin.mugisha@humber.ca | [🔥] Completed | [N/A] |
