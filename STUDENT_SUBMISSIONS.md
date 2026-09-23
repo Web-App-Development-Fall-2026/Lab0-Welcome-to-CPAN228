@@ -1,4 +1,4 @@
-# Lab 0 Student Submissions
+ # Lab 0 Student Submissions
 
 Welcome! Follow these instructions to complete Lab 0 and submit your work.
 
@@ -110,4 +110,5 @@ After the PR is merged, you're officially done with Lab 0! ✅
 
 | #   | Name              | Student ID    | GitHub Username | Humber Email                  | Lab 0 Complete | Group Name |
 | --- | ----------------- | ------------- | --------------- | ----------------------------- | -------------- | ---------- |
-| 0 | Christin, Mugisha | [N0123456789] | @christinhumber | ly-christin.mugisha@humber.ca | [🔥] Completed | [N/A] |
+| 0 | Christin, Mugisha | [N0123456789] | @sg78pmcr67-staE| HARKKIRAT284@icloud.com | [🔥] Completed | [N/A] |
+0 | SINGH, HARKIRAT | [N01727565] | @christinhumber | ly-christin.mugisha@humber.ca | [🔥] Completed | [N/A] |
