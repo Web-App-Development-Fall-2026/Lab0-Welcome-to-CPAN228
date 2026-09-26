@@ -111,3 +111,25 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | #   | Name              | Student ID    | GitHub Username | Humber Email                  | Lab 0 Complete | Group Name |
 | --- | ----------------- | ------------- | --------------- | ----------------------------- | -------------- | ---------- |
 | 0 | Christin, Mugisha | [N0123456789] | @christinhumber | ly-christin.mugisha@humber.ca | [🔥] Completed | [N/A] |
+| 1 | Abhinass Singh | [N01754524] | @abhi7656 | N01754524@humber.ca | [🔥] Completed | [N/A] |
+| 2 | Hasan, Talha | [N01692526] | @talhahasan24 | n01692526@humber.ca | ✅ Completed | [N/A] |
+| 3 | Fletcher, Tyandre | [N01676012] | @andrefletch | n01676012@humber.ca | [🔥] Completed | [N/A] |
+| 4 | Gianni Romano | [N01555435] | @gianniromano-bit | n01555435@humber.ca | lab 0 completed 😊 | n/a |
+| 5 | Christian, Kiyimba | [N01707975] | @christianbrad | n01707975@humber.ca | [🔥] Completed | [N/A] |
+| 6 | Jakob, Morales | [N01740058] | @Jakob-bit-bit | N01740058@humber.ca | [🔥] Completed | [N/A] |
+| 7 | Santana Acosta, Laura Sofia | [N01737339] | @Sofiasantanaa | n01737339@humber.ca | [🌸] Completed | [N/A] |
+| 8 | Andres, Mendoza-Bernardo | [N01708732] | @Alex119766 | N01708732@humber.ca | [🔥] Completed | [N/A] |
+| 9 | Opiti, Great | [N01677963] | @BigGreat1 | N01677963@humber.ca | [✅] Completed | [N/A] |
+| 10 | Kettle, Alexis | [n01653801] | @AlexisKH | n01653801@humber.ca | [✅] | none |
+| 11 | Kissoon, Dawattie | [N01751994] | @dawattie-kissoon | n01751995@students.humber.ca | Completed | [N/A] |
+| 12 | Cummings, Deanthony | [N01615531] | @deanthony-cmd | n01615531@humber.ca | [🔥] Completed | [B] |
+| 13 | Vishal, Vishal | [N01737533] | @chnikai526 | N01737533@humber.ca | :white_check_mark: Completed | N/A |
+| 14 | Raymond Choy | [N01743348] | @Ho-Fei | N01743348@humber.ca | [🔥] Completed | [N/A] |
+| 15 | Hao, Le | [N01605830] | @Genartists | N01605830@humber.ca | [✅] Completed | [N/A] |
+| 16 | Kaur, Navpreet | [N01752801] | @NavDhaliwal52 | N01752801@humber.ca | [✅] Completed | [N/A] |
+| 17 | Asumadu, Kurtis | [N01344336] | @n01344336 | n01344336@humber.ca | [✅] Completed | [N/A] |
+| 18 | Yavorsky, Peter | [N01626628] | @StuffAndThings001 | n01626628@studets.humber.ca | 🟢 | [N/A] |
+| 19 | Harkirat S | N/A | @sg78pmcr67-star | HARKKIRAT284@icloud.com | [🔥] Completed | [N/A] |
+| 20 | Singh, Gurveer | [N01725494] | @Gurveer432 | gurveersingh@student.humber.ca | Lab 0 Completed | n/a |
+| 21 | Kensel, Sepulveda | [N01727920] | @kenselsece | n01727920@humber.ca | [🔥] Completed | [group 12] |
+| 22 | Inderjeet Singh Gharu | [N01757249] | @inder0121 | n01757249@humber.ca | [🔥] Completed | [N/A] |
