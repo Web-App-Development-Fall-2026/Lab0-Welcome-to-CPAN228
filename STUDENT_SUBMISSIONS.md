@@ -133,3 +133,4 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 20 | Singh, Gurveer | [N01725494] | @Gurveer432 | gurveersingh@student.humber.ca | Lab 0 Completed | n/a |
 | 21 | Kensel, Sepulveda | [N01727920] | @kenselsece | n01727920@humber.ca | [🔥] Completed | [group 12] |
 | 22 | Inderjeet Singh Gharu | [N01757249] | @inder0121 | n01757249@humber.ca | [🔥] Completed | [N/A] |
+| 23 | Tomas, Zovic | [N01657789 | @TomasZovic87 | n01657789@humber.ca | [🔥] Completed | [group 9] |
